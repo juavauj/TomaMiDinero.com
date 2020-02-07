@@ -1,1 +1,7 @@
 /* Hoja de estilo de la página. */
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    margin: auto;
+}
