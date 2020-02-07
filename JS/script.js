@@ -1,4 +1,4 @@
-// Script de la página.
+// Cards.
 
 let card = {
 
