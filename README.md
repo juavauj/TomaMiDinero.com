@@ -1,4 +1,4 @@
-# TomaMiDinero.com
+# TomaMiDineroDotCom
 
 tomamidinero.com nació de la unión de dos grandiosas ideas: El amanecer tardío de la baja zona del Congo y la blusa sport de la reina de Inglaterra.
 
